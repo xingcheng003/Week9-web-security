@@ -5,7 +5,7 @@
 
 
 ## Any issues you encountered
-- I spent a couple hours to figure out because it always has some permission denied.
+- I spent 10 hours to figure it out because it always has some permission denied.
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
  - <img src='sensor.png' title='sensor' width='' alt='' />
